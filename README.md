@@ -3,6 +3,8 @@
 Beginner project that collects **headlines** for investment monitoring.
 It uses Playwright's synchronous Python API and a real Chromium browser.
 
+![CafeF stock-market headlines from the public listing](docs/screenshot.png)
+
 The CafeF target is the stock-market section:
 
 **https://cafef.vn/thi-truong-chung-khoan.chn**
